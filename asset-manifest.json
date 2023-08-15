@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wanyyf-wanyyf-goit-react-hw-01-components-1/static/css/main.6bff5fcb.css",
+    "main.js": "/wanyyf-wanyyf-goit-react-hw-01-components-1/static/js/main.c32fd6a0.js",
+    "index.html": "/wanyyf-wanyyf-goit-react-hw-01-components-1/index.html",
+    "main.6bff5fcb.css.map": "/wanyyf-wanyyf-goit-react-hw-01-components-1/static/css/main.6bff5fcb.css.map",
+    "main.c32fd6a0.js.map": "/wanyyf-wanyyf-goit-react-hw-01-components-1/static/js/main.c32fd6a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bff5fcb.css",
+    "static/js/main.c32fd6a0.js"
+  ]
+}
